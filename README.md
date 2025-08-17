@@ -20,13 +20,11 @@ Built with tkinter, no extra dependencies
 
 Clone this repository:
 
-git clone https://github.com/your-username/folder-tree-generator.git
-cd folder-tree-generator
 
 
 Run the app:
 
-python folder_tree_gui.py
+main.py
 
 
 ✅ Requirements:
